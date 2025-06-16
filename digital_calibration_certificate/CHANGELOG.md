@@ -12,9 +12,12 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## [Unreleased 1.X.X-2022.XX]
+## [1.2.0-2025.06]
 
-1. __
+1. To `unit` enum add:
+   1. `mV` (Issue [#260](https://github.com/IEA-Task-43/digital_wra_data_standard/issues/260))
+   1. `(m/s)/mV` (Issue [#260](https://github.com/IEA-Task-43/digital_wra_data_standard/issues/260))
+
 
 ## [1.1.0-2022.06]
 
